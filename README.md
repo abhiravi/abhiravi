@@ -2,7 +2,7 @@
 - 👀 I’m interested in Adhoc Problem Solving Projects
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Manufacturing and Logistics development
-- 📫 How to reach me sixfut@gmail.com
+
 
 <!---
 abhiravi/abhiravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
